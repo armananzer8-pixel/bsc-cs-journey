@@ -5,3 +5,4 @@ Day 4 - Type conversion and calculations
 Day 5 - Arithmetic operators
 Day 6 - Comparison operators
 Day 7 - if statements
+Day 8 - if else statements
