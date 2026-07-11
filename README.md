@@ -8,3 +8,5 @@ Day 7 - if statements
 Day 8 - if else statements
 Day 9 - if elif else statements
 Day 10 - Logical operators
+Day 11 - For loops
+Day 12 - While loops
