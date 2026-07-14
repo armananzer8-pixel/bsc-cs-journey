@@ -10,3 +10,6 @@ Day 9 - if elif else statements
 Day 10 - Logical operators
 Day 11 - For loops
 Day 12 - While loops
+Day 13 - Nested loops
+Day 14 - Advanced pattern printing
+Day 15 - Lists
