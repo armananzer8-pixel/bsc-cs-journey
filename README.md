@@ -14,3 +14,4 @@ Day 13 - Nested loops
 Day 14 - Advanced pattern printing
 Day 15 - Lists
 Day 16 - Advanced Lists
+Day 17 - Strings
