@@ -15,3 +15,6 @@ Day 14 - Advanced pattern printing
 Day 15 - Lists
 Day 16 - Advanced Lists
 Day 17 - Strings
+Day 18 - Functions
+Day 19 - Dictionaries
+Day 20 - Tuples and Sets
