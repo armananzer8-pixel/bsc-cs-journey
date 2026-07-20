@@ -18,3 +18,5 @@ Day 17 - Strings
 Day 18 - Functions
 Day 19 - Dictionaries
 Day 20 - Tuples and Sets
+Day 21 - File Handling
+Day 22 - Exception Handling
