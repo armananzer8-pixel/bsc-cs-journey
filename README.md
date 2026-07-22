@@ -22,3 +22,5 @@ Day 21 - File Handling
 Day 22 - Exception Handling
 Day 23 - Modules and Packages
 day24_oop/
+
+day26_inheritance/ , animal.py , vehicle.py , employee.py , student.py , Day 26 - OOP Inheritance
